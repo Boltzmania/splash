@@ -1,0 +1,284 @@
+You can't believe everything you read on the internet.|It may not be true.|~Abraham 'The Man' Lincoln
+One man's constant is another man's variable.|~
+Functions delay binding while data structures induce binding.|Moral: Structure data late in the programming process.|~Alan J. Perlis
+Syntactic sugar causes cancer of the semi-colons.|~Alan J. Perlis, probably
+Every program is a part of some other program and rarely fits.|~Alan J. Perlis, probably
+If a program manipulates a large amount of data, it does so in a small number of ways.|~Alan J. Perlis, probably
+Symmetry is a complexity reducing concept (co-routines include sub-routines); seek it everywhere.|~Alan J. Perlis, probably
+It is easier to write an incorrect program than understand a correct one.|~Alan J. Perlis, probably
+A programming language is low level when its programs require attention to the irrelevant.|~Alan J. Perlis, probably
+It is better to have 100 functions operate on one data structure than 10 functions on 10 data structures.|~Alan J. Perlis, probably
+Get into a rut early: Do the same processes the same way. Accumulate idioms. Standardize. The only difference (!) between Shakespeare and you was the size of his idiom list - not the size of his vocabulary.|~Alan J. Perlis, probably
+If you have a procedure with 10 parameters, you probably missed some.|~Alan J. Perlis, probably
+Recursion is the root of computation since it trades description for time.|~Alan J. Perlis, probably
+If two people write exactly the same program, each should be put in micro-code and then they certainly won't be the same.|~Alan J. Perlis, probably
+In the long run every program becomes rococo - then rubble.|~Alan J. Perlis, probably
+Everything should be built top-down, except the first time.|~Alan J. Perlis, probably
+Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.|~Alan J. Perlis, probably
+If a listener nods his head when you're explaining your program, wake him up.|~Alan J. Perlis, probably
+A program without a loop and a structured variable isn't worth writing.|~Alan J. Perlis, probably
+A language that doesn't affect the way you think about programming, is not worth knowing.|~Alan J. Perlis, probably
+Wherever there is modularity there is the potential for misunderstanding: Hiding information implies a need to check communication.|~Alan J. Perlis, probably
+Optimization hinders evolution.|~Alan J. Perlis, probably
+A good system can't have a weak command language.|~Alan J. Perlis, probably
+To understand a program you must become both the machine and the program.|~Alan J. Perlis, probably
+Perhaps if we wrote programs from childhood on, as adults we'd be able to read them.|~Alan J. Perlis, probably
+One can only display complex information in the mind. Like seeing, movement or flow or alteration of view is more important than the static picture, no matter how lovely.|~Alan J. Perlis, probably
+There will always be things we wish to say in our programs that in all known languages can only be said poorly.|~Alan J. Perlis, probably
+Once you understand how to write a program get someone else to write it.|~Alan J. Perlis, probably
+Around computers it is difficult to find the correct unit of time to measure progress. Some cathedrals took a century to complete. Can you imagine the grandeur and scope of a program that would take as long?|~Alan J. Perlis, probably
+For systems, the analogue of a face-lift is to add to the control graph an edge that creates a cycle, not just an additional node.|~Alan J. Perlis, probably
+In programming, everything we do is a special case of something more general - and often we know it too quickly.|~Alan J. Perlis, probably
+Simplicity does not precede complexity, but follows it.|~Alan J. Perlis, probably
+Programmers are not to be measured by their ingenuity and their logic but by the completeness of their case analysis.|~Alan J. Perlis, probably
+The 11th commandment was "Thou Shalt Compute" or "Thou Shalt Not Compute" - I forget which.|~Alan J. Perlis, probably
+The string is a stark data structure and everywhere it is passed there is much duplication of process. It is a perfect vehicle for hiding information.|~Alan J. Perlis, probably
+Everyone can be taught to sculpt: Michelangelo would have had to be taught how not to. So it is with the great programmers.|~Alan J. Perlis, probably
+The use of a program to prove the 4-color theorem will not change mathematics - it merely demonstrates that the theorem, a challenge for a century, is probably not important to mathematics.|~Alan J. Perlis, probably
+The most important computer is the one that rages in our skulls and ever seeks that satisfactory external emulator. The standardization of real computers would be a disaster - and so it probably won't happen.|~Alan J. Perlis, probably
+Structured Programming supports the law of the excluded muddle.|~Alan J. Perlis, probably
+Re graphics: A picture is worth 10K words - but only those to describe the picture. Hardly any sets of 10K words can be adequately described with pictures.|~Alan J. Perlis, probably
+There are two ways to write error-free programs; only the third one works.|~Alan J. Perlis, probably
+Some programming languages manage to absorb change, but withstand progress.|~Alan J. Perlis, probably
+You can measure a programmer's perspective by noting his attitude on the continuing vitality of FORTRAN.|~Alan J. Perlis, probably
+In software systems it is often the early bird that makes the worm.|~Alan J. Perlis, probably
+Sometimes I think the only universal in the computing field is the fetch-execute-cycle.|~Alan J. Perlis, probably
+The goal of computation is the emulation of our synthetic abilities, not the understanding of our analytic ones.|~Alan J. Perlis, probably
+Like punning, programming is a play on words.|~Alan J. Perlis, probably
+As Will Rogers would have said, "There is no such thing as a free variable."|~Alan J. Perlis, probably
+The best book on programming for the layman is "Alice in Wonderland"; but that's because it's the best book on anything for the layman.|~Alan J. Perlis, probably
+Giving up on assembly language was the apple in our Garden of Eden: Languages whose use squanders machine cycles are sinful. The LISP machine now permits LISP programmers to abandon bra and fig-leaf.|~Alan J. Perlis, probably
+When we understand knowledge-based systems, it will be as before - except our finger-tips will have been singed.|~Alan J. Perlis, probably
+Signals don't kill programs. Programs kill programs.|~Alan J. Perlis, probably
+Bringing computers into the home won't change either one, but may revitalize the corner saloon.|~Alan J. Perlis, probably
+Systems have sub-systems and sub-systems have sub-systems and so on ad infinitum - which is why we're always starting over.|~Alan J. Perlis, probably
+So many good ideas are never heard from again once they embark in a voyage on the semantic gulf.|~Alan J. Perlis, probably
+Beware of the Turing tar-pit in which everything is possible but nothing of interest is easy.|~Alan J. Perlis, probably
+A LISP programmer knows the value of everything, but the cost of nothing.|~Alan J. Perlis, probably
+Software is under a constant tension. Being symbolic it is arbitrarily perfectible; but also it is arbitrarily changeable.|~Alan J. Perlis, probably
+It is easier to change the specification to fit the program than vice versa.|~Alan J. Perlis, probably
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.|~Alan J. Perlis, probably
+In English every word can be verbed. Would that it were so in our programming languages.|~Alan J. Perlis, probably
+Dana Scott is the Church of the Lattice-Way Saints.|~Alan J. Perlis, probably
+In programming, as in everything else, to be in error is to be reborn.|~Alan J. Perlis, probably
+In computing, invariants are ephemeral.|~Alan J. Perlis, probably
+When we write programs that "learn", it turns out we do and they don't.|~Alan J. Perlis, probably
+Often it is means that justify ends: Goals advance technique and technique survives even when goal structures crumble.|~Alan J. Perlis, probably
+Make no mistake about it: Computers process numbers - not symbols. We measure our understanding (and control) by the extent to which we can arithmetize an activity.|~Alan J. Perlis, probably
+Making something variable is easy. Controlling duration of constancy is the trick.|~Alan J. Perlis, probably
+Think of all the psychic energy expended in seeking a fundamental distinction between "algorithm" and "program".|~Alan J. Perlis, probably
+If we believe in data structures, we must believe in independent (hence simultaneous) processing. For why else would we collect items within a structure? Why do we tolerate languages that give us the one without the other?|~Alan J. Perlis, probably
+In a 5 year period we get one superb programming language. Only we can't control when the 5 year period will begin.|~Alan J. Perlis, probably
+Over the centuries the Indians developed sign language for communicating phenomena of interest. Programmers from different tribes (FORTRAN, LISP, ALGOL, SNOBOL, etc.) could use one that doesn't require them to carry a blackboard on their ponies.|~Alan J. Perlis, probably
+Documentation is like term insurance: It satisfies because almost no one who subscribes to it depends on its benefits.|~Alan J. Perlis, probably
+An adequate bootstrap is a contradiction in terms.|~Alan J. Perlis, probably
+It is not a language's weaknesses but its strengths that control the gradient of its change: Alas, a language never escapes its embryonic sac.|~Alan J. Perlis, probably
+It is possible that software is not like anything else, that it is meant to be discarded: that the whole point is to always see it as soap bubble?|~Alan J. Perlis, probably
+Because of its vitality, the computing field is always in desperate need of new cliches: Banality soothes our nerves.|~Alan J. Perlis, probably
+It is the user who should parameterize procedures, not their creators.|~Alan J. Perlis, probably
+The cybernetic exchange between man, computer and algorithm is like a game of musical chairs: The frantic search for balance always leaves one of the three standing ill at ease.|~Alan J. Perlis, probably
+If your computer speaks English it was probably made in Japan.|~Alan J. Perlis, probably
+A year spent in artificial intelligence is enough to make one believe in God.|~Alan J. Perlis, probably
+Prolonged contact with the computer turns mathematicians into clerks and vice versa.|~Alan J. Perlis, probably
+In computing, turning the obvious into the useful is a living definition of the word "frustration".|~Alan J. Perlis, probably
+We are on the verge: Today our program proved Fermat's next-to-last theorem!|~Alan J. Perlis, probably
+What is the difference between a Turing machine and the modern computer? It's the same as that between Hillary's ascent of Everest and the establishment of a Hilton hotel on its peak.|~Alan J. Perlis, probably
+Motto for a research laboratory: What we work on today, others will first think of tomorrow.|~Alan J. Perlis, probably
+Though the Chinese should adore APL, it's FORTRAN they put their money on.|~Alan J. Perlis, probably
+We kid ourselves if we think that the ratio of procedure to data in an active data-base system can be made arbitrarily small or even kept small.|~Alan J. Perlis, probably
+We have the mini and the micro computer. In what semantic niche would the pico computer fall?|~Alan J. Perlis, probably
+It is not the computer's fault that Maxwell's equations are not adequate to design the electric motor.|~Alan J. Perlis, probably
+One does not learn computing by using a hand calculator, but one can forget arithmetic.|~Alan J. Perlis, probably
+Computation has made the tree flower.|~Alan J. Perlis, probably
+The computer reminds one of Lon Chaney - it is the machine of a thousand faces.|~Alan J. Perlis, probably
+The computer is the ultimate polluter. Its feces are indistinguishable from the food it produces.|~Alan J. Perlis, probably
+When someone says "I want a programming language in which I need only say what I wish done," give him a lollipop.|~Alan J. Perlis, probably
+Interfaces keep things tidy, but don't accelerate growth: Functions do.|~Alan J. Perlis, probably
+Don't have good ideas if you aren't willing to be responsible for them.|~Alan J. Perlis, probably
+Computers don't introduce order anywhere as much as they expose opportunities.|~Alan J. Perlis, probably
+When a professor insists computer science is X but not Y, have compassion for his graduate students.|~Alan J. Perlis, probably
+In computing, the mean time to failure keeps getting shorter.|~Alan J. Perlis, probably
+In man-machine symbiosis, it is man who must adjust: The machines can't.|~Alan J. Perlis, probably
+We will never run out of things to program as long as there is a single program around.|~Alan J. Perlis, probably
+Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve.|~Alan J. Perlis, probably
+One can't proceed from the informal to the formal by formal means.|~Alan J. Perlis, probably
+Purely applicative languages are poorly applicable.|~Alan J. Perlis, probably
+The proof of a system's value is its existence.|~Alan J. Perlis, probably
+You can't communicate complexity, only an awareness of it.|~Alan J. Perlis, probably
+It's difficult to extract sense from strings, but they're the only communication coin we can count on.|~Alan J. Perlis, probably
+The debate rages on: Is PL/I Bactrian or Dromedary?|~Alan J. Perlis, probably
+Whenever two programmers meet to criticize their programs, both are silent.|~Alan J. Perlis, probably
+Think of it! With VLSI we can pack 100 ENIACs in 1 sq.cm.|~Alan J. Perlis, probably
+Editing is a rewording activity.|~Alan J. Perlis, probably
+Why did the Roman Empire collapse? What is the Latin for office automation?|~Alan J. Perlis, probably
+Computer Science is embarrassed by the computer.|~Alan J. Perlis, probably
+The only constructive theory connecting neuroscience and psychology will arise from the study of software.|~Alan J. Perlis, probably
+Within a computer natural language is unnatural.|~Alan J. Perlis, probably
+Most people find the concept of programming obvious, but the doing impossible.|~Alan J. Perlis, probably
+You think you know when you learn, are more sure when you can write, even more when you can teach, but certain when you can program.|~Alan J. Perlis, probably
+It goes against the grain of modern education to teach children to program. What fun is there in making plans, acquiring discipline in organizing thoughts, devoting attention to detail and learning to be self-critical?|~Alan J. Perlis, probably
+If you can imagine a society in which the computer-robot is the only menial, you can imagine anything.|~Alan J. Perlis, probably
+Programming is an unnatural act.|~Alan J. Perlis, probably
+Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.|~Alan J. Perlis, probably
+In seeking the unattainable, simplicity only gets in the way.|~Alan J. Perlis, probably
+There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies.|~Tony Hoare
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.|~Edsger W. Dijkstra
+One of my most productive days was throwing away 1000 lines of code.|~Ken Thompson
+When in doubt, use brute force.|~Ken Thompson
+Deleted code is debugged code.|~Jeff Sickel
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.|~Brian Kernighan
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.|~Brian Kernighan
+Controlling complexity is the essence of computer programming.|~Brian Kernighan
+UNIX was not designed to stop its users from doing stupid things, as that would also stop them from doing clever things.|~Doug Gwyn
+And folks, let’s be honest. Sturgeon was an optimist. Way more than 90% of code is crap.|~Al Viro
+The essence of XML is this: the problem it solves is not hard, and it does not solve the problem well.|~Phil Wadler
+Life is too short to run proprietary software.|~Bdale Garbee
+XML is like violence: if it doesn’t solve your problem, you aren’t using enough of it.|~Heard from someone working at Microsoft
+XML is like violence. Sure, it seems like a quick and easy solution at first, but then it spirals out of control into utter chaos.|~/u/Sarkos on reddit
+Threads and signals are a platform-dependant trail of misery, despair, horror and madness.|~Anthony Baxter
+It’s not that Perl programmers are idiots, it’s that the language rewards idiotic behavior in a way that no other language or tool has ever done.|~Erik Naggum
+A program is portable to the extent that it can be easily moved to a new computing environment with much less effort than would be required to write it afresh.|~W. Stan Brown
+Programming graphics in X is like finding the square root of PI using Roman numerals.|~Henry Spencer
+Given enough eyeballs, all bugs are shallow.|~Eric Raymond
+Java is to JavaScript as car is to carpet.|~Everyone and thier mother
+Programming is like sex: one mistake and you have to support it for the rest of your life.|~Michael Sinz
+The fool wonders, the wise man asks.|~Benjamin Disraeli
+Commenting your code is like cleaning your bathroom - you never want to do it, but it really does create a more pleasant experience for you and your guests.|~
+Unicode support is not a “feature”. It is expected behaviour.|~Unknown
+It's all talk until the code runs.|~Ward Cunningham
+I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.|~Bjarne Stroustrup
+The best thing about a boolean is even if you are wrong, you are only off by a bit.|~Unknown
+There are only two kinds of languages: the ones people complain about and the ones nobody uses.|~Bjarne Stroustrup
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.|~Edsger W. Dijkstra
+Computer Science is no more about computers than astronomy is about telescopes.|~Edsger W. Dijkstra
+If Java had true garbage collection, most programs would delete themselves upon execution.|~Robert Sewell
+The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.|~Tom Cargill
+Debuggers don't remove bugs. They only show them in slow motion.|~Unknown
+We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.|~Donald Knuth
+Nine people can't make a baby in a month.|~Fred Brooks
+There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors.|~Leon Bambrick
+Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.|~Rick Cook
+You can use an eraser on the drafting table or a sledgehammer on the construction site.|~Frank Lloyd Wright
+In theory, there is no difference between theory and practice. But, in practice, there is.|~Jan L. A. van de Snepscheut
+Some people, when confronted with a problem, think "I know, I'll use regular expressions." Now they have two problems.|~Jamie Zawinski
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.|~Rick Osborne
+It always takes longer than you expect, even when you take into account Hofstadter's Law.|~Hofstadter's Law
+Walking on water and developing software from a specification are easy if both are frozen.|~Edward V Berard
+Without requirements or design, programming is the art of adding bugs to an empty text file.|~Louis Srygley
+I think Microsoft named .Net so it wouldn’t show up in a Unix directory listing.|~Oktal
+It’s not a bug – it’s an undocumented feature.|~Unknown
+One man’s crappy software is another man’s full time job.|~Jessica Gaston
+Software undergoes beta testing shortly before it’s released. Beta is Latin for "still doesn’t work".|~
+In order to understand recursion, one must first understand recursion.|~
+The cheapest, fastest, and most reliable components are those that aren’t there.|~
+The best performance improvement is the transition from the nonworking state to the working state.|~
+Programmer - an organism that turns coffee into software.|~
+All programmers are playwrights and all computers are lousy actors.|~
+And then it occurred to me that a computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.|~
+Programs for sale: fast, reliable, cheap - choose two.|~
+Program,| n. A magic spell cast over a computer allowing it to turn one's input into error messages;| v. tr. To engage in a pastime similar to banging one's head against a wall, but with fewer opportunities for reward.|~Anonymous
+Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.|~Stan Kelly-Bootle
+When you catch bugs early, you also get fewer compound bugs. Compound bugs are two separate bugs that interact: you trip going downstairs, and when you reach for the handrail it comes off in your hand.|~Paul Graham
+You cannot teach beginners top-down programming, because they don't know which end is up.|~C.A.R. Hoare
+Let the hacking commence!
+Hacks and glory await!
+Hack and be merry.
+Your hacking starts... NOW!
+May the source be with you.
+Take this REPL, brother, and may it serve you well.
+Lemonodor-fame is but a hack away.
+$USER, this could be the start of a beautiful program.
+Scientifically-proven optimal words of hackerish encouragement.
+12 herbs and spices
+12345 is a *REALLY* bad password!
+90% bug free
+Déjà vu
+Déjà vu
+The thing's hollow—it goes on forever—and—oh my God—it's full of stars!
+Now with multiplayer.
+NP is not in P!
+sqrt(-1) love you.
+That's no moon!
+That's Numberwang!
+Oh shit, I totally forgot about Dre.
+What's up, Doc?
+Code goes in. Binary goes out. You can't explain that.
+Tautological statements are tautological.
+May contain nuts.
+Also try bash!
+Also try csh!
+Also try fish!
+Also try ksh!
+Also try sh!
+Also try tcsh!
+Also try zsh!
+Khaaaaaaaaaaaaaaaaaaaaaaaaan!
+Go away unauthorized users!
+FYI: gotos considered harmful.
+YOU WILL BE ASSIMILATED. RESISTANCE IS FUTILE.
+You reach out to push the orc off the edge,|(rolls 1)|but instead lightly caress his back. He is uncomfortable.
+We have binders full of women to choose from!
+Definitely on the struggle bus today.
+I'M ON A BOAT!!
+Stop procrastinating.
+This sentence is a lie.
+Rawr means "I love you" in dinosaur.
+We're gonna need a bigger boat.
+Halt and catch fire.
+Get your snacks!
+Woof. Woof. Woof.
+Working hard or hardly working?
+Nice shooting tex.
+I am your father's brother's nephew's cousin's former roommate. 
+They've gone to plaid!
+A long time ago in a galaxy far, far away...
+I lost. I lost?! Wait a second, I'm not supposed to lose. Let me see the script.
+NOOOOOOOOOOOOOOOOooooooooo!!!
+King illegal forest to pig wild kill in it a is!
+What is the most resilient parasite? Bacteria? A virus? An intestinal worm? An idea. Resilient... highly contagious. Once an idea has taken hold of the brain it's almost impossible to eradicate. An idea that is fully formed - fully understood - that sticks; right in there somewhere.
+Constantly talking isn't necessarily communicating.
+Don't Panic.
+Time is an illusion. Lunchtime doubly so.
+How many roads must a man walk down?
+42
+So long, and thanks for all the fish.
+Mostly harmless.
+In the beginning the Universe was created. This had made many people very angry and has been widely regarded as a bad move.
+I was created to fulfill a function and I failed in it. I negated my own existence.
+I've... seen things... you people wouldn't believe. Attack ships on fire off the shoulder of Orion; I watched c-beams glitter in the dark near the Tannhäuser Gate... All those... moments... will be lost, in time, like tears... in... rain. Time... to die.
+A match can't box.
+No, but a tin can.
+Finish the fight.
+Never give up! Never surrender!
+Greetings. I am the Monitor of Installation 04. I am 343 Guilty Spark.
+Would you like to see the relevant data?
+There is much talk, and I have listened, through rock and metal and time. Now I shall talk, and you shall listen.
+Don't make a girl a promise... If you know you can't keep it.....
+Wake me... When you need me.
+All hail the conquering hero.
+Were it so easy.
+To find him, you have to forget the stories. Forget the legends. You have to do more than walk in his footsteps, for he is more than the sum of his actions. I tell you this not because I trust you, Agent Locke, but because all our lives are at stake. Because the seeds of our future are sown in his past.
+Boo.
+All your base are belong to us.
+Particle get!
+Thank you Mario! But our princess is in another castle!
+Waka waka waka waka waka
+Nothing is true; everything is permitted.
+I'm in lesbians with you.
+It's dangerous to go alone! Take this.
+Do a barrel roll!
+For science!
+Continue testing.
+GET OVER HERE!
+The cake is a lie.
+Tucker... I always hated you... the most.... HERRRGGRRK BLEH
+Time isn't made of lines. It is made of circles. That is why clocks are round.
+Suck it blues... I mean reds ARGH!
+Hey Grif, Chupathingy! How about that? I like it, gotta ring to it.
+No, no, wait, go back! Why are there six pedals if there are only four directions?
+You are a dirty dirty shisno.
+But we are hackers and hackers have black terminals with green font colors.|~John Nunemaker
+YOU HAVE BEEN HACKED!
+Hold "X" to hack.
+Hack the planet!
+Consider a frictionless spherical cow in a vacuum.
