@@ -51,12 +51,6 @@ License
 -------
 Uhhhh I copied this set of headings from another project. Does this really need
 a license? It's ~15 whole lines of code barely more complicated than "Hello
-World!". If you manage to break something with that I'd be truly impressed.
+World!". Go forth and be merry.
 
 Why are you still reading this?
-
-Contact
--------
-Author: Arno Byrd
-Github username: BasedArno
-Email: arnobyrd@utk.edu
