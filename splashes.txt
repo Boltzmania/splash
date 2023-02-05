@@ -84,7 +84,6 @@ In computing, turning the obvious into the useful is a living definition of the 
 We are on the verge: Today our program proved Fermat's next-to-last theorem!|~Alan J. Perlis, probably
 What is the difference between a Turing machine and the modern computer? It's the same as that between Hillary's ascent of Everest and the establishment of a Hilton hotel on its peak.|~Alan J. Perlis, probably
 Motto for a research laboratory: What we work on today, others will first think of tomorrow.|~Alan J. Perlis, probably
-Though the Chinese should adore APL, it's FORTRAN they put their money on.|~Alan J. Perlis, probably
 We kid ourselves if we think that the ratio of procedure to data in an active data-base system can be made arbitrarily small or even kept small.|~Alan J. Perlis, probably
 We have the mini and the micro computer. In what semantic niche would the pico computer fall?|~Alan J. Perlis, probably
 It is not the computer's fault that Maxwell's equations are not adequate to design the electric motor.|~Alan J. Perlis, probably
@@ -288,3 +287,5 @@ All models are wrong, some are useful.|~George E. P. Box
 Stallman was right!
 I need to download more RAM.
 Press start to play!
+Give me a firm place to mount and a gearbox, and I can turn this drive shaft into a cinnamon roll.|~Archimedes, probably
+Meh, good enough.|~Mediocrates
